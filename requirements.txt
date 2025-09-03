@@ -1,0 +1,8 @@
+pandas==2.2.2
+openpyxl==3.1.5
+breeze-connect==1.0.80
+plotly==5.24.1
+notebook==6.5.7
+ipywidgets==8.1.2
+jupyterlab_widgets==3.0.10
+
