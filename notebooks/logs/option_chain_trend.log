@@ -1,0 +1,12 @@
+2025-09-03 22:21:01,707 - INFO - Appended data for expiry 30-Sep-2025 in data/3MIndicators.xlsx
+2025-09-03 22:21:03,186 - INFO - Appended data for expiry 28-Oct-2025 in data/3MIndicators.xlsx
+2025-09-03 22:21:04,426 - INFO - Appended data for expiry 25-Nov-2025 in data/3MIndicators.xlsx
+2025-09-03 22:21:51,608 - INFO - Appended data for expiry 30-Sep-2025 in data/3MIndicators.xlsx
+2025-09-03 22:21:53,008 - INFO - Appended data for expiry 28-Oct-2025 in data/3MIndicators.xlsx
+2025-09-03 22:21:54,144 - INFO - Appended data for expiry 25-Nov-2025 in data/3MIndicators.xlsx
+2025-09-03 22:35:48,450 - INFO - Appended data for expiry 30-Sep-2025 in data/3MIndicators.xlsx
+2025-09-03 22:35:49,754 - INFO - Appended data for expiry 28-Oct-2025 in data/3MIndicators.xlsx
+2025-09-03 22:35:50,900 - INFO - Appended data for expiry 25-Nov-2025 in data/3MIndicators.xlsx
+2025-09-03 22:35:55,568 - INFO - Saved PCR OI trend plot: results/PCR OI_trend.png
+2025-09-03 22:35:55,698 - INFO - Saved PCR Volume trend plot: results/PCR Volume_trend.png
+2025-09-03 22:35:55,828 - INFO - Saved Max Pain trend plot: results/Max Pain_trend.png
