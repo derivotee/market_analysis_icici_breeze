@@ -1,0 +1,12 @@
+# Treat notebooks as text for cleaner diffs
+*.ipynb text linguist-language=Python
+
+# Force Unix-style line endings
+* text=auto eol=lf
+
+# Handle Python scripts
+*.py text diff=python
+
+# Ignore Jupyter checkpoints in diffs
+*.ipynb_checkpoints/* linguist-vendored
+
