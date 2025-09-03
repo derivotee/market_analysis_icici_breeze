@@ -1,0 +1,18 @@
+# Ignore local data and results
+data/
+results/
+
+# Ignore Breeze API keys (never commit secrets)
+scripts/breeze_client.py
+
+# Ignore temporary Jupyter files
+*.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+data/
+results/
+scripts/breeze_client.py
+*.ipynb_checkpoints/
+__pycache__/
+
+
