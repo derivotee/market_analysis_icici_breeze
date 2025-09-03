@@ -5,6 +5,21 @@ results/
 # Ignore Breeze API keys (never commit secrets)
 scripts/breeze_client.py
 
+# Ignore temporary Jupyter files and system junk
+*.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# Ignore Excel and CSV logs
+*.xlsx
+*.csv
+# Ignore local data and results
+data/
+results/
+
+# Ignore Breeze API keys (never commit secrets)
+scripts/breeze_client.py
+
 # Ignore temporary Jupyter files
 *.ipynb_checkpoints/
 __pycache__/
@@ -14,5 +29,7 @@ results/
 scripts/breeze_client.py
 *.ipynb_checkpoints/
 __pycache__/
+
+anaconda_projects/
 
 

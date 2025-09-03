@@ -19,6 +19,16 @@ This repository provides a **derivatives market analysis toolkit** built using t
    ```bash
    pip install -r requirements.txt
 
+## Setup Breeze API Keys
+
+This project uses the **ICICI Breeze API**.  
+To run the notebooks, you need to provide your own API credentials.
+
+1. Copy the template file:
+   ```bash
+   cp scripts/breeze_client_TEMPLATE.py scripts/breeze_client.py
+
+
 
 ---
 This project is provided for educational and research purposes only.
