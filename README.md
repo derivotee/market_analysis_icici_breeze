@@ -7,11 +7,12 @@ Beyond real-time monitoring, the repository also supports backtesting frameworks
 
 This repository provides a **derivatives market analysis toolkit** built using the **ICICI Breeze API**.  
 
-## Features (Few are under pipeline)
+## Features (Data being fetched from ICICI Breeze, and option chain from NSE website) 
 - Option Chain analysis (PCR, Max Pain)
-- Greeks calculation
-- Alerts (Delta buffer, Spot triggers)
-- Backtesting (Max Pain, Basis analysis)
+- Trend for Max Pain, PCR OI, PCR Vol over three months.
+- OI Analysis by fetching data from NSE (Can be validate against the data from ICICI)
+- OI Buildup analysis
+- Volatility levels across different strikes across Puts and Calls.
 
 ## Setup
 1. Clone this repo
